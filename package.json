@@ -1,0 +1,27 @@
+{
+  "name": "react-native-segment-controller",
+  "version": "1.0.0",
+  "description": "A segment controller component for both android and ios react-native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csath/react-native-segment-controller.git"
+  },
+  "keywords": [
+    "react-native",
+    "segement-controll",
+    "tabs",
+    "tab-view",
+    "android",
+    "ios"
+  ],
+  "author": "Chanaka Athurugiriya <chanakaathurugiriya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csath/react-native-segment-controller/issues"
+  },
+  "homepage": "https://github.com/csath/react-native-segment-controller#readme"
+}
