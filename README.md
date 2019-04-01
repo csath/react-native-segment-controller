@@ -52,3 +52,6 @@ then run
 ``` 
 react-native run-android  or  react-native run-ios
 ```
+
+Created by @ Chanaka Athurugiriya
+
